@@ -19,8 +19,12 @@
 Got dataset from Gap Minder.
 
 # Exploratory Data Analysis:
-* Visualized time series data and found data to be non - stationary. Done ADFuller test to cross - check whether data is stationary or not.
+* Visualized time series data and found data to be non - stationary. 
+* Done ADFuller test to cross - check whether data is stationary or not.
 * Transformed data to stationary using differencing and decomposing.
 # Model Building:
 * Done data partition of time series keeping in view that order of must not be disturbed.
 * Implemented different forecasting models on both stationary and non - stationary data.
+* ![image](https://user-images.githubusercontent.com/89403336/147631988-f2474261-9dea-44a1-a371-cabe7681f577.png)
+# Model evaluation and comparison:
+* Compared all the models build on basis of MAPE values.
