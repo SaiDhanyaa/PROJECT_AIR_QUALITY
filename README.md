@@ -28,3 +28,5 @@ Got dataset from Gap Minder.
 * ![image](https://user-images.githubusercontent.com/89403336/147631988-f2474261-9dea-44a1-a371-cabe7681f577.png)
 # Model evaluation and comparison:
 * Compared all the models build on basis of MAPE values.
+ ![image](https://user-images.githubusercontent.com/89403336/147632269-b96de286-f80f-47f0-a16b-5712317060b6.png)
+
