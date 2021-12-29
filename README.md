@@ -6,3 +6,9 @@
 * Compared different model based on MAPE value which were built both on stationary and non - stationary data.
 * Deployed model using Streamlit.
 * Please visit the PPT provided in this repository for in-depth understanding.
+## How to run ?
+* Download this project folder.
+* Open Anaconda prompt in root project directory and run this command: streamlit run TS.py
+* After opening of browser, Upload CO2_dataset.csv provided in the folder.
+* Enter the number of years you want to forecast and press enter.
+Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
