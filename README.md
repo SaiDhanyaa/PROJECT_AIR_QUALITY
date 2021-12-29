@@ -12,4 +12,15 @@
 * After opening of browser, Upload CO2_dataset.csv provided in the folder.
 * Enter the number of years you want to forecast and press enter.
 ![image](https://user-images.githubusercontent.com/89403336/147631713-123ec5ee-b888-435f-b726-5ca1f55feeb3.png)
+## Business Problem / Objective:
+**To forecast the Carbon Dioxide emission levels for an industry so as the emission levels are within the standard limit, so that the organization can follow the government norms with respect to Carbon Dioxide emission levels.
 
+# Dataset details:
+Got dataset from Gap Minder.
+
+# Exploratory Data Analysis:
+* Visualized time series data and found data to be non - stationary. Done ADFuller test to cross - check whether data is stationary or not.
+* Transformed data to stationary using differencing and decomposing.
+# Model Building:
+* Done data partition of time series keeping in view that order of must not be disturbed.
+* Implemented different forecasting models on both stationary and non - stationary data.
