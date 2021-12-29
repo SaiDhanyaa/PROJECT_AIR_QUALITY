@@ -11,4 +11,5 @@
 * Open Anaconda prompt in root project directory and run this command: streamlit run TS.py
 * After opening of browser, Upload CO2_dataset.csv provided in the folder.
 * Enter the number of years you want to forecast and press enter.
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+Markup : ![![image](https://user-images.githubusercontent.com/89403336/147631551-49f03562-df60-4145-abf6-88170e30ed04.png)
+](http://via.placeholder.com/200x150 "Title is optional")
