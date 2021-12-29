@@ -5,7 +5,7 @@
 * Implemented different forecasting model like ARIMA, Smoothing techniques like Holt - winter's method etc.
 * Compared different model based on MAPE value which were built both on stationary and non - stationary data.
 * Deployed model using Streamlit.
-* Please visit the PPT provided in this repository for in-depth understanding.
+
 ## How to run ?
 * Download this project folder.
 * Open Anaconda prompt in root project directory and run this command: streamlit run TS.py
