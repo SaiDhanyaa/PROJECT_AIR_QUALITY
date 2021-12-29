@@ -11,7 +11,7 @@
 * Open Anaconda prompt in root project directory and run this command: streamlit run TS.py
 * After opening of browser, Upload CO2_dataset.csv provided in the folder.
 * Enter the number of years you want to forecast and press enter.
-![image](https://user-images.githubusercontent.com/89403336/147631713-123ec5ee-b888-435f-b726-5ca1f55feeb3.png)
+![image](https://user-images.githubusercontent.com/89403336/147632221-b8a57214-7f38-4769-bc48-72e7e7dc5b2f.png)
 ## Business Problem / Objective:
 **To forecast the Carbon Dioxide emission levels for an industry so as the emission levels are within the standard limit, so that the organization can follow the government norms with respect to Carbon Dioxide emission levels.
 
